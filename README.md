@@ -1,9 +1,12 @@
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h1 align="left">Hi 👋! My name is Manjushree </h1>
 <h2> I'm a Passionate Computer Science  Student, from  Madras Institute of Technology</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
