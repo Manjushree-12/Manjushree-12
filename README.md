@@ -7,7 +7,7 @@ A passionate **Computer Science student** exploring software development, full s
 <br>
 📌 Projects: *Threat detection using Agentic AI Framework*,*Quantum Safe Blockchain Wallet*,*Accident Hotspot Analytics*, *Full-Stack Blogging Platform*, *News Reader App*.  
 <br>
-🎯 Preparing for top tech placements with strong focus on **DSA & System Design**.  
+🎯 Preparing for top tech placements with strong focus on **DSA,Logical Thinking**.  
 
 ---
 
