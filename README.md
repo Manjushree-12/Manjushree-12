@@ -1,12 +1,9 @@
 <h2 align="left">Hi 👋! I'm Manjushree</h2>
 <br>
 
-💻 A passionate **Computer Science student** exploring software development, full stack projects, and data-driven solutions.
+A passionate **Computer Science student** exploring software development, full stack projects, and data-driven solutions.  
 <br>
-
-🌱 Currently learning **Operating Systems, Computer Networks, and Generative AI**.  
-<br>
-🚀 Skilled in **C, C++, Java, SQL, MERN Stack, Data Analytics, and Android Development**.  
+🚀 Skilled in **C, C++, Java, SQL, MERN Stack,Machine learning,Networks,Operating systems, Data Analytics, and Android Development**.  
 <br>
 📌 Projects: *Accident Hotspot Analytics*, *Full-Stack Blogging Platform*, *News Reader App*.  
 <br>
